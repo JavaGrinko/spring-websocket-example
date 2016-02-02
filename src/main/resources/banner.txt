@@ -1,0 +1,8 @@
+  ${AnsiColor.RED} ___ ${AnsiColor.BLACK}                ${AnsiColor.RED} _____ ${AnsiColor.BLACK}     _       _
+  ${AnsiColor.RED}|_  |${AnsiColor.BLACK}                ${AnsiColor.RED}|  __ \${AnsiColor.BLACK}    (_)     | |
+    ${AnsiColor.RED}| |${AnsiColor.BLACK} __ ___   ____ _${AnsiColor.RED}| |  \/${AnsiColor.BLACK}_ __ _ _ __ | | _____
+    ${AnsiColor.RED}| |${AnsiColor.BLACK}/ _` \ \ / / _` ${AnsiColor.RED}| | __|${AnsiColor.BLACK} '__| | '_ \| |/ / _ \
+${AnsiColor.RED}/\__/ /${AnsiColor.BLACK} (_| |\ V / (_| ${AnsiColor.RED}| |_\ \${AnsiColor.BLACK} |  | | | | |   < (_) |
+${AnsiColor.RED}\____/ ${AnsiColor.BLACK}\__,_| \_/ \__,_${AnsiColor.RED}|\____/${AnsiColor.BLACK}_|  |_|_| |_|_|\_\___/
+${AnsiColor.MAGENTA} JavaGrinko@gmail.com ------- github.com/JavaGrinko
+${AnsiColor.MAGENTA} Web-site: http://javainside.ru
